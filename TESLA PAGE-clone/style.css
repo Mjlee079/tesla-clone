@@ -81,9 +81,21 @@ nav .icons{
   cursor: pointer;
 }
 
+.icons .material-symbols-outlined{
+  padding: 5px;
+}
+
 .setence{
   text-align: center;
+
 }
+ .setence h1{
+  padding: 5px;
+ }
+
+ .setence h3{
+  padding: 5px;
+ }
 
 footer{
   text-align: center;
