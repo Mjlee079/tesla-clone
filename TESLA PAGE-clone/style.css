@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600&family=Roboto:ital,wght@0,300;0,400;0,500;1,300;1,400;1,500&display=swap');
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+.main{
+ 
+  background: url(https://digitalassets.tesla.com/tesla-contents/image/upload/h_2400,w_2880,c_fit,f_auto,q_auto:best/Homepage-Model-Y-Global-Desktop);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+  width: 100vw;
+  opacity: 10px;
+
+}
+
+.top-norch{
+  background-color: rgb(2, 2, 87);
+  height: 7vh;
+  color: #ffffff;
+  width: 100vw;
+}
+
+.top-norch h1{
+font-size: 19px;
+font-weight: 450;
+padding: 10px;
+margin-left: 10vw;
+}
+
+.top-norch .fed{
+  font-size: 15px;
+font-weight: 450;
+text-align: center;
+margin-top: -30px;
+margin-left: 15vw;
+
+}
+
+.top-norch p a{
+padding: 25px;
+color: white;
+}
+
+nav{
+  height: 10vh;
+}
+
+
+nav img {
+height: 9vh;
+}
+
+nav .link{
+text-align: center; 
+text-decoration: none;
+margin-top: -9vh;
+ 
+}
+nav p {
+  display: inline-block;
+  padding: 13px;
+ 
+}
+ nav p a{
+  text-decoration: none;
+  color: black;
+ }
+
+nav .icons{
+  float: right;
+  margin: -5vh 70px;
+  cursor: pointer;
+}
+
+.setence{
+  text-align: center;
+}
+
+footer{
+  text-align: center;
+  padding: 10px;
+}
+
+.btn{
+  margin-top: 55vh;
+  color: white;
+}
+
+.btn .tesla-order{
+  width: 17vw;
+  height: 5vh;
+}
+.btn .simulation{
+  width: 17vw;
+  height: 5vh;
+  background-color: rgb(139, 134, 134);
+}
+
+.last-info{
+  margin: 13px;
+}
+
+.last-info p{
+padding: 9px 0;
+}
+
+
+
